@@ -11,6 +11,9 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2>📚🔐 Certifications</h2>
+Comptia A+
+Comptia Security+
+ISC2 CC
 
 <h2> 🤳 Connect with me:</h2>
 
