@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, cloud technol
  
 <h3 align="left">🖥️ Operating Systems</h3>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
-</div>  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+ </div>  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
 <h3 align="left">🛠 Tools</h3>
 <div align="left">
   <img width="12" />
@@ -33,7 +33,9 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, cloud technol
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  /> _____________________________________
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  /> 
+  
+_____________________________________
 
 ## 🌟 Projects
 
@@ -49,6 +51,7 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, cloud technol
 9. DHCP Server Setup
 10. Wireless Network Configuration
 
+_____________________________________
 ### 🔐 Security
 1. Malware Analysis Lab Setup
 2. Basic Phishing Email Analysis
@@ -61,6 +64,7 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, cloud technol
 9. Basic Vulnerability Assessment
 10. Creating a Security Awareness Plan
 
+_____________________________________
 ### ☁️ Cloud
 1. Setting Up a Free Azure Account
 2. Deploying a Virtual Machine in Azure
@@ -83,17 +87,11 @@ Feel free to explore my repositories and connect with me on LinkedIn or other pl
 [linkedin]: https://linkedin.com/in/derick-morrow
 
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
 ###
 
 <br clear="both">
 
 <h3 align="left">Links to Follow My Connect</h3>
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -104,11 +102,6 @@ Feel free to explore my repositories and connect with me on LinkedIn or other pl
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
